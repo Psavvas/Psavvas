@@ -4,7 +4,7 @@
 
 - 🔭 I'm currently working on **building a platform that redefines how independent learners connect, collaborate, and teach one another.**
 
-- 🌱 I'm currently learning **Postgres SQL and @Next.js.**
+- 🌱 I'm currently learning **Postgres SQL and Next.js.**
 
 - 👯 I'm looking to collaborate on **open-source projects, hardware-software integrations and anything that can have a positive impact on the world.**
 
