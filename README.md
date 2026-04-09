@@ -29,7 +29,6 @@
 
 #### Programming Languages
 [![My Skills](https://skillicons.dev/icons?i=cpp)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=bash)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=md)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
