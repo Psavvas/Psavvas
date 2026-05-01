@@ -10,13 +10,13 @@
 
 - 💬 Ask me about **CAD, Arduino and website development.**
 
-- 📫 How to reach me **hello@paulsavvas.me**
+- 📫 How to reach me **hello@paulsavvas.com**
 
 - ⚡ Fun fact **I speak fluent French & English so communicate with me in whatever is easiest.**
 
-- 👨‍💻 All of my projects are available at **[https://www.paulsavvas.me/projects](https://www.paulsavvas.me/projects)**
+- 👨‍💻 All of my projects are available at **[https://www.paulsavvas.com/projects](https://www.paulsavvas.com/projects)**
 
-- 📝 I regularly write articles on **[https://www.paulsavvas.me/blog](https://www.paulsavvas.me/blog)**
+- 📝 I regularly write articles on **[https://www.paulsavvas.com/blog](https://www.paulsavvas.com/blog)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
