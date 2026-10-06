@@ -2,7 +2,7 @@
 
 ### A passionate self-driven learner
 
-- 🔭 I'm currently working on **building a platform that redefines how independent learners connect, collaborate, and teach one another.**
+- 🔭 I'm currently working on **building a Windows app that will sync to Apple Reminders, allowing reminders to be view and modified from a beautiful app and not a terrible website.**
 
 - 🌱 I'm currently learning **Postgres SQL and Next.js.**
 
